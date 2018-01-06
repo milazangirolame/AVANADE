@@ -3,7 +3,7 @@ const assert = require('chai').assert ;
 // const addNumbers = require("../app").addNumbers;
 const app = require("../app");
 
-// Results
+// Refactoring Results
 sayHelloResult = app.sayHello();
 addNumbersResult = app.addNumbers(5,5);
 
